@@ -72,7 +72,7 @@ Interface de recherche et de visualisation des résultats
 Utilisation
 Installation
 bash# Cloner le dépôt
-git clone https://github.com/username/cbir-authentification.git
+git clone https://github.com/Moutail/cbir-authentification.git
 cd cbir-authentification
 
 # Installer les dépendances
